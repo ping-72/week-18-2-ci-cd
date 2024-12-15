@@ -3,7 +3,7 @@ import { authOptions } from "../../../../lib/auth"
 
 
 
-
+//ok
 //@ts-ignore
 const handler = NextAuth(authOptions)
 
